@@ -4,7 +4,9 @@ title: Home
 ---
 
 ## About Me
-Welcome to my portfolio. I am passionate about building robust automated testing solutions. Below are some of the key projects I am working on.
+Welcome to my portfolio. 
+I break things for a living - on purpose, I promise. While others build features, I'm the person gleefully clicking buttons in the wrong order and wondering what happens when you enter "💩" in the username field. Turns out, automated testing is the perfect outlet for my chaotic energy.
+I believe good testing is like a good joke - it should be clear, repeatable, and not leave everyone confused about what just happened.
 
 ## Projects
 
