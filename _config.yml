@@ -15,13 +15,6 @@ plugins:
 # Your Projects List
 # This data can be looped over in your index.md to display cards or a list.
 projects:
-  - title: Playwright Automation
-    url: https://github.com/patmcdaniel37/playwright
-    description: >
-      A comprehensive end-to-end testing suite using Playwright. 
-      Demonstrates robust browser automation, cross-browser testing, 
-      and reliable selector strategies.
-      
   - title: Postman API Testing
     url: https://github.com/patmcdaniel37/postman
     description: >
@@ -29,6 +22,13 @@ projects:
       Includes examples of data-driven testing, environment variable management, 
       and integration with Newman for command-line execution.
 
+  - title: Playwright Automation
+    url: https://github.com/patmcdaniel37/playwright
+    description: >
+      A comprehensive end-to-end testing suite using Playwright. 
+      Demonstrates robust browser automation, cross-browser testing, 
+      and reliable selector strategies.
+      
   - title: CI/CD Playground
     url: https://github.com/patmcdaniel37/ci-cd-playground
     description: >
