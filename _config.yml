@@ -1,3 +1,37 @@
-theme: jekyll-theme-minimal
-title: patmcdaniel37 homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Pat McDaniel
+email: patmcdaniel37@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  SDET/QA Automation Engineer re-familiarizing myself with testing frameworks and CI/CD pipelines.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://patmcdaniel37.github.io" # the base hostname & protocol for your site
+github_username: patmcdaniel37
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Your Projects List
+# This data can be looped over in your index.md to display cards or a list.
+projects:
+  - title: Playwright Automation
+    url: https://github.com/patmcdaniel37/playwright
+    description: >
+      A comprehensive end-to-end testing suite using Playwright. 
+      Demonstrates robust browser automation, cross-browser testing, 
+      and reliable selector strategies.
+      
+  - title: Postman API Testing
+    url: https://github.com/patmcdaniel37/postman
+    description: >
+      API testing collections and automation workflows. 
+      Includes examples of data-driven testing, environment variable management, 
+      and integration with Newman for command-line execution.
+
+  - title: CI/CD Playground
+    url: https://github.com/patmcdaniel37/ci-cd-playground
+    description: >
+      A sandbox environment for Continuous Integration and Deployment experiments.
+      Showcases GitHub Actions workflows, pipeline optimization, 
+      and automated build/test triggers.
